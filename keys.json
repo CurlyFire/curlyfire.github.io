@@ -5,7 +5,6 @@
       "use": "sig",
       "e": "AQAB",
       "kid": "WdOb0JlFoVKcmIg/A55ZUK03fYE=",
-      "alg": "RS256",
       "n": "o9TaIoWjixTkq-iMYuStZ3soniqF-zvyfAAiKNzkBClaFsNsMMhCcjep46wIxopt9BO1C_iXtbb3x9_HgTCzDXnQwehSP5OqsuwxdLg9yeWqa0CLDKWc7LU32c2WrqPOGTLC95hDtCiuyFkiv0ut2AWU-fXAAGU4h6y4NlPuD6efEUoWuz0pDThvHt5r8z4hcKInwucJWLWoU5bLxEMgvnYE3cOoW1sXoId379rq9bkagVcazA96mGJzYdIebiv5AFcIC8BhWqAuzxgFQdEy8oBziD9IDaIE5zOimLkjNfrwCxVYHwISxt4GQM1iYcwgM3bBzFoMFENHQnEWzwRygQ"
     },
     {
@@ -13,7 +12,6 @@
       "use": "enc",
       "e": "AQAB",
       "kid": "au07AZnb+B0VRICoICmr+2qHXNA=",
-      "alg": "RSA-OAEP-256",
       "n": "s_0lzHqqj6mxhDPBTKiqHkSoPJJnzM6tUINjrhR1-NMZSJ5By2MMkHzOggdxNJWLrt2FjBF8YeHBgTU21lgh8aAb06ZoCyH9-MVoDNglwATp15ZLAshzvjSSmaiAmqfUba-8v8L-poPTnceg0UIA9PDyygS_5xNpVOBkNMsjcwXzUpTgffAwlAHKznZrIJ8q8pN4hhby09RMdxO41zjpxK2p25PEqOu-tq3aJW3ECh7iPs_GGvF0ZPm3CLF1u1txQheY17hl8L1yNGBcFb4PJGLbhwTr-F6klzZhe4IUuY33nQJ5X3OIhQyErCphv1-_3EwX8VeG-VEYg3jUxfCILw"
     }
   ]
