@@ -1,0 +1,21 @@
+{
+    "keys": [
+		{
+			"kty": "RSA",
+			"e": "AQAB",
+			"use": "enc",
+			"kid": "cryptage-rqap",
+			"alg": "RSA-OAEP-256",
+			"n": "jNi7yvIhfL3kdnqWPbMLqcA0ddz6--SzDuTgOkS1jnY1n_wsRtCndGb-xJdh_VosDPA7gNh22H0vU7DCxdGM9cnnLC7uHZ_-Dyif3S5AV23H4FMNBmxyD6PEnCBuwCnH8_xhLUF4qfZMzkFqrz8BLAsZzGuyst3WWqdnMcGvhQCWOAOOCWZ93g09knhzUt2iygmZs_HdkeTVzXJ-pJcoJjQHQHWdf-tZQnKpcoWLj-xMuftM5qIlKSdBzE6EyVeLsm-ur_LwH-OWzS_oRVwtilQMcb9nxPLlIH3ZmdJgpIooscv3ztZAhChXHmHoxteELIDLT_qiwlgmsoWtAUZv1w"
+		},
+		{
+			"kty": "EC",
+			"use": "sig",
+			"crv": "P-256",
+			"kid": "signature-rqap",
+			"x": "zFJX4nhXxrAI6v4C7QKRseGmnuBCn96fQ2AmOcE-xYc",
+			"y": "ecmHp_OANSHfNJNebKdCbY9573l5hEjMNGD4EYYDh3g",
+			"alg": "ES256"
+		}
+    ]
+}
